@@ -1,4 +1,4 @@
-# Exam Bioinfo M2 2026 - Maxime Aernout
+# Exam Bioinfo M2 2026 - Maxime Aernout 
 
 ## 0. Data preparation
 
