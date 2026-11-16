@@ -473,3 +473,11 @@ And I obtain:
 ```
 
 The compression ratio is 83%, which means that the compressed file only occupies 17% of the original storage. This compression is particularly useful with many individuals (like 500) because it significantly reduces storage requirements. For example, if an individual generates 1 GB of raw fastq data, the total would be 500 GB. If we use compression, then 500 GB × 17% = 85 GB. The total storage goes from 500 GB to 85 GB.
+
+---
+
+## Note:
+
+I stopped there because I didn't have time to finish all exercises.
+
+Maxime Aernout
