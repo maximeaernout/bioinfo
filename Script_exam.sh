@@ -9,7 +9,7 @@ chmod 777 work
 
 ls -l
 
-#Exercise 1
+#Exercise 1 
 
 #Question 1
 head popA_ind01.fastq
