@@ -9,7 +9,6 @@ chmod 777 work
 
 ls -l
 
-
 #Exercise 1
 
 #Question 1
