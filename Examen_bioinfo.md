@@ -1,4 +1,4 @@
-# Script Exam: FASTQ File Analysis
+# Exam Bioinfo M2 2026 - Maxime Aernout
 
 ## 0. Data preparation
 
